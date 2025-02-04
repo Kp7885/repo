@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    color: navy;
+}
+
+.center {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+.color-box {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+    line-height: 150px;
+    font-weight: bold;
+    color: white;
+}
+
+.box1 {
+    background-color: crimson;  /* Red Box */
+}
+
+.box2 {
+    background-color: darkorange;  /* Orange Box */
+}
